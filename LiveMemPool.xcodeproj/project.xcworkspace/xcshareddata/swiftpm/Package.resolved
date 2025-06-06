@@ -1,0 +1,24 @@
+{
+  "originHash" : "2b8833c23524c6c6cf7bdc3f072332f7d916b8187bca4b86ff3b24d998b970b1",
+  "pins" : [
+    {
+      "identity" : "mempoolkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FlorianHubl/MempoolKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0bb7920abae7e8aa0aea211b84e8e641d920eeed"
+      }
+    },
+    {
+      "identity" : "swifttor",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FlorianHubl/SwiftTor",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c2106380621945d578ead18c5d72b1170f02dbcc"
+      }
+    }
+  ],
+  "version" : 3
+}
